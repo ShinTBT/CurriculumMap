@@ -1,2 +1,2 @@
-# CurriculumMap
+# CurriculumTree
 
