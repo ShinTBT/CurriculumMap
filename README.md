@@ -1,1 +1,2 @@
-# CurriculumMap.github.io
+# CurriculumMap
+
