@@ -97,12 +97,12 @@
 		<g clip-path="url(#clip14)">
 			<use width="100%" height="100%" xlink:href="#img13" transform="translate(672 121)"/>
 		</g>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="700" font-size="9" transform="translate(466.939 600)" pointer-events="none">経済</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="700" font-size="9" transform="translate(466.939 600)">経済</text>
 		<path class="back" d="M91.5001 674 103 662.5 103 668.25 899.001 668.25 899.001 662.5 910.5 674 899.001 685.5 899.001 679.75 103 679.75 103 685.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(787.229 699)" pointer-events="none">社会／経験<tspan x="-667.281" y="0" pointer-events="none">知識／学術</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(787.229 699)">社会／経験<tspan x="-667.281" y="0">知識／学術</tspan>
 		</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 44.1244 150)" x="4.03076" y="2.46924">４年</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" transform="translate(513.583 655)" pointer-events="none">専門教育科目群<tspan x="-260.108" y="0" pointer-events="none">一般教育科目群</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 44.1244 150)" x="4.03076" y="2.46924">４年</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" transform="translate(513.583 655)">専門教育科目群<tspan x="-260.108" y="0">一般教育科目群</tspan>
 			<tspan font-size="9" x="213.586" y="-1">汎用的技能科目群</tspan>
 			<tspan font-size="12" x="-283.641" y="-32">教養科目</tspan>
 			<tspan font-size="11" x="-203.063" y="-32">外国語科目</tspan>
@@ -117,210 +117,210 @@
 			<tspan font-size="8" x="271.716" y="-28">科目</tspan>
 		</text>
 		<rect x="75.5001" y="640.5" width="113" height="23" stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" transform="translate(99.2441 655)" pointer-events="none">自由科目群</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" transform="translate(99.2441 655)">自由科目群</text>
 		<path d="M498.5 539C498.5 536.515 500.515 534.5 503 534.5L536 534.5C538.485 534.5 540.5 536.515 540.5 539L540.5 557C540.5 559.485 538.485 561.5 536 561.5L503 561.5C500.515 561.5 498.5 559.485 498.5 557Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(505.619 545)" pointer-events="none">◎経営学<tspan x="6.66669" y="8">入門</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(505.619 545)">◎経営学<tspan x="6.66669" y="8">入門</tspan>
 		</text>
 		<path d="M544.5 539C544.5 536.515 546.515 534.5 549 534.5L582 534.5C584.485 534.5 586.5 536.515 586.5 539L586.5 557C586.5 559.485 584.485 561.5 582 561.5L549 561.5C546.515 561.5 544.5 559.485 544.5 557Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(551.595 545)" pointer-events="none">◎会計学<tspan x="6.66663" y="8">入門</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(551.595 545)">◎会計学<tspan x="6.66663" y="8">入門</tspan>
 		</text>
 		<path d="M630.5 539C630.5 536.515 632.515 534.5 635 534.5L664 534.5C666.485 534.5 668.5 536.515 668.5 539L668.5 557C668.5 559.485 666.485 561.5 664 561.5L635 561.5C632.515 561.5 630.5 559.485 630.5 557Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(635.632 545)" pointer-events="none">スポーツ<tspan x="0" y="8">科学概論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(635.632 545)">スポーツ<tspan x="0" y="8">科学概論</tspan>
 		</text>
 		<path d="M542.5 507.833C542.5 505.44 544.44 503.5 546.833 503.5L579.167 503.5C581.56 503.5 583.5 505.44 583.5 507.833L583.5 525.167C583.5 527.56 581.56 529.5 579.167 529.5L546.833 529.5C544.44 529.5 542.5 527.56 542.5 525.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(547.948 518)" pointer-events="none">◇簿記論<tspan x="26.6667" y="0">I</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(547.948 518)">◇簿記論<tspan x="26.6667" y="0">I</tspan>
 		</text>
 		<path d="M631.5 507.833C631.5 505.44 633.44 503.5 635.833 503.5L664.167 503.5C666.56 503.5 668.5 505.44 668.5 507.833L668.5 525.167C668.5 527.56 666.56 529.5 664.167 529.5L635.833 529.5C633.44 529.5 631.5 527.56 631.5 525.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(642.765 514)" pointer-events="none">運動<tspan x="-3.33331" y="8">生理学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(642.765 514)">運動<tspan x="-3.33331" y="8">生理学</tspan>
 		</text>
 		<path d="M449.5 539C449.5 536.515 451.515 534.5 454 534.5L487 534.5C489.485 534.5 491.5 536.515 491.5 539L491.5 557C491.5 559.485 489.485 561.5 487 561.5L454 561.5C451.515 561.5 449.5 559.485 449.5 557Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(456.838 545)" pointer-events="none">◎経済学<tspan x="6.66666" y="8">入門</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(456.838 545)">◎経済学<tspan x="6.66666" y="8">入門</tspan>
 		</text>
 		<path d="M589.5 539C589.5 536.515 591.515 534.5 594 534.5L623 534.5C625.485 534.5 627.5 536.515 627.5 539L627.5 557C627.5 559.485 625.485 561.5 623 561.5L594 561.5C591.515 561.5 589.5 559.485 589.5 557Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(594.512 545)" pointer-events="none">◇情報学<tspan x="6.66663" y="8">入門</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(594.512 545)">◇情報学<tspan x="6.66663" y="8">入門</tspan>
 		</text>
 		<path d="M493.5 507.833C493.5 505.44 495.44 503.5 497.833 503.5L531.167 503.5C533.56 503.5 535.5 505.44 535.5 507.833L535.5 525.167C535.5 527.56 533.56 529.5 531.167 529.5L497.833 529.5C495.44 529.5 493.5 527.56 493.5 525.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(504.264 510)" pointer-events="none">マーケ<tspan x="-3.33331" y="8">ティング</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(504.264 510)">マーケ<tspan x="-3.33331" y="8">ティング</tspan>
 			<tspan x="6.66669" y="16">論</tspan>
 		</text>
 		<path d="M401.5 539C401.5 536.515 403.515 534.5 406 534.5L439 534.5C441.485 534.5 443.5 536.515 443.5 539L443.5 557C443.5 559.485 441.485 561.5 439 561.5L406 561.5C403.515 561.5 401.5 559.485 401.5 557Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(411.997 545)" pointer-events="none">◎法学<tspan x="3.33331" y="8">入門</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(411.997 545)">◎法学<tspan x="3.33331" y="8">入門</tspan>
 		</text>
 		<path d="M396.5 507.833C396.5 505.44 398.44 503.5 400.833 503.5L433.167 503.5C435.56 503.5 437.5 505.44 437.5 507.833L437.5 525.167C437.5 527.56 435.56 529.5 433.167 529.5L400.833 529.5C398.44 529.5 396.5 527.56 396.5 525.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(408.418 518)" pointer-events="none">民法<tspan x="13.3333" y="0">I</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(408.418 518)">民法<tspan x="13.3333" y="0">I</tspan>
 		</text>
 		<path d="M443.5 507.833C443.5 505.44 445.44 503.5 447.833 503.5L481.167 503.5C483.56 503.5 485.5 505.44 485.5 507.833L485.5 525.167C485.5 527.56 483.56 529.5 481.167 529.5L447.833 529.5C445.44 529.5 443.5 527.56 443.5 525.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(450.381 514)" pointer-events="none">経済の思<tspan x="0" y="8">想と哲学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(450.381 514)">経済の思<tspan x="0" y="8">想と哲学</tspan>
 		</text>
 		<path d="M381.5 446.833C381.5 444.44 383.44 442.5 385.833 442.5L419.167 442.5C421.56 442.5 423.5 444.44 423.5 446.833L423.5 464.167C423.5 466.56 421.56 468.5 419.167 468.5L385.833 468.5C383.44 468.5 381.5 466.56 381.5 464.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(388.984 453)" pointer-events="none">◇日本国<tspan x="6.66669" y="8">憲法</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(388.984 453)">◇日本国<tspan x="6.66669" y="8">憲法</tspan>
 		</text>
 		<path d="M374.5 415.833C374.5 413.44 376.44 411.5 378.833 411.5L415.167 411.5C417.56 411.5 419.5 413.44 419.5 415.833L419.5 433.167C419.5 435.56 417.56 437.5 415.167 437.5L378.833 437.5C376.44 437.5 374.5 435.56 374.5 433.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(387.45 426)" pointer-events="none">民法<tspan x="13.3333" y="0">II</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(387.45 426)">民法<tspan x="13.3333" y="0">II</tspan>
 		</text>
 		<path d="M433.5 446.833C433.5 444.44 435.44 442.5 437.833 442.5L474.167 442.5C476.56 442.5 478.5 444.44 478.5 446.833L478.5 464.167C478.5 466.56 476.56 468.5 474.167 468.5L437.833 468.5C435.44 468.5 433.5 466.56 433.5 464.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(442.318 453)" pointer-events="none">◇ミクロ<tspan x="3.33334" y="8">経済学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(442.318 453)">◇ミクロ<tspan x="3.33334" y="8">経済学</tspan>
 		</text>
 		<path d="M768.5 390.833C768.5 388.44 770.44 386.5 772.833 386.5L817.167 386.5C819.56 386.5 821.5 388.44 821.5 390.833L821.5 408.167C821.5 410.56 819.56 412.5 817.167 412.5L772.833 412.5C770.44 412.5 768.5 410.56 768.5 408.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(774.404 397)" pointer-events="none">マネジメント<tspan x="0" y="8">のための数学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(774.404 397)">マネジメント<tspan x="0" y="8">のための数学</tspan>
 		</text>
 		<path d="M480.5 385.833C480.5 383.44 482.44 381.5 484.833 381.5L522.167 381.5C524.56 381.5 526.5 383.44 526.5 385.833L526.5 403.167C526.5 405.56 524.56 407.5 522.167 407.5L484.833 407.5C482.44 407.5 480.5 405.56 480.5 403.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(492.906 392)" pointer-events="none">◇経営<tspan x="0" y="8">戦略論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(492.906 392)">◇経営<tspan x="0" y="8">戦略論</tspan>
 		</text>
 		<path d="M537.5 446.833C537.5 444.44 539.44 442.5 541.833 442.5L575.167 442.5C577.56 442.5 579.5 444.44 579.5 446.833L579.5 464.167C579.5 466.56 577.56 468.5 575.167 468.5L541.833 468.5C539.44 468.5 537.5 466.56 537.5 464.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(545.758 457)" pointer-events="none">簿記論II</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(545.758 457)">簿記論II</text>
 		<path d="M532.5 354.833C532.5 352.44 534.44 350.5 536.833 350.5L570.167 350.5C572.56 350.5 574.5 352.44 574.5 354.833L574.5 372.167C574.5 374.56 572.56 376.5 570.167 376.5L536.833 376.5C534.44 376.5 532.5 374.56 532.5 372.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(539.804 365)" pointer-events="none">簿記論Ⅲ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(539.804 365)">簿記論Ⅲ</text>
 		<path d="M360.5 354.833C360.5 352.44 362.44 350.5 364.833 350.5L405.167 350.5C407.56 350.5 409.5 352.44 409.5 354.833L409.5 372.167C409.5 374.56 407.56 376.5 405.167 376.5L364.833 376.5C362.44 376.5 360.5 374.56 360.5 372.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(377.442 365)" pointer-events="none">刑法</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(377.442 365)">刑法</text>
 		<path d="M368.5 385.833C368.5 383.44 370.44 381.5 372.833 381.5L409.167 381.5C411.56 381.5 413.5 383.44 413.5 385.833L413.5 403.167C413.5 405.56 411.56 407.5 409.167 407.5L372.833 407.5C370.44 407.5 368.5 405.56 368.5 403.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(380.01 396)" pointer-events="none">民法<tspan x="13.3333" y="0">III</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(380.01 396)">民法<tspan x="13.3333" y="0">III</tspan>
 		</text>
 		<path d="M423.5 385.833C423.5 383.44 425.44 381.5 427.833 381.5L468.167 381.5C470.56 381.5 472.5 383.44 472.5 385.833L472.5 403.167C472.5 405.56 470.56 407.5 468.167 407.5L427.833 407.5C425.44 407.5 423.5 405.56 423.5 403.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(433.858 392)" pointer-events="none">◇マクロ<tspan x="3.33334" y="8">経済学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(433.858 392)">◇マクロ<tspan x="3.33334" y="8">経済学</tspan>
 		</text>
 		<path d="M402.5 263C402.5 260.515 404.515 258.5 407 258.5L451 258.5C453.485 258.5 455.5 260.515 455.5 263L455.5 281C455.5 283.485 453.485 285.5 451 285.5L407 285.5C404.515 285.5 402.5 283.485 402.5 281Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(418.573 274)" pointer-events="none">金融論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(418.573 274)">金融論</text>
 		<path d="M426.5 415.833C426.5 413.44 428.44 411.5 430.833 411.5L471.167 411.5C473.56 411.5 475.5 413.44 475.5 415.833L475.5 433.167C475.5 435.56 473.56 437.5 471.167 437.5L430.833 437.5C428.44 437.5 426.5 435.56 426.5 433.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(433.925 426)" pointer-events="none">日本経済論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(433.925 426)">日本経済論</text>
 		<path d="M461.5 232.833C461.5 230.44 463.44 228.5 465.833 228.5L510.167 228.5C512.56 228.5 514.5 230.44 514.5 232.833L514.5 250.167C514.5 252.56 512.56 254.5 510.167 254.5L465.833 254.5C463.44 254.5 461.5 252.56 461.5 250.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(477.698 243)" pointer-events="none">経営史</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(477.698 243)">経営史</text>
 		<path d="M486.5 446.833C486.5 444.44 488.44 442.5 490.833 442.5L527.167 442.5C529.56 442.5 531.5 444.44 531.5 446.833L531.5 464.167C531.5 466.56 529.56 468.5 527.167 468.5L490.833 468.5C488.44 468.5 486.5 466.56 486.5 464.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(491.729 457)" pointer-events="none">経営組織論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(491.729 457)">経営組織論</text>
 		<path d="M533.5 385.833C533.5 383.44 535.44 381.5 537.833 381.5L571.167 381.5C573.56 381.5 575.5 383.44 575.5 385.833L575.5 403.167C575.5 405.56 573.56 407.5 571.167 407.5L537.833 407.5C535.44 407.5 533.5 405.56 533.5 403.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(543.928 392)" pointer-events="none">◇財務<tspan x="0" y="8">会計論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(543.928 392)">◇財務<tspan x="0" y="8">会計論</tspan>
 		</text>
 		<path d="M587.5 507.833C587.5 505.44 589.44 503.5 591.833 503.5L621.167 503.5C623.56 503.5 625.5 505.44 625.5 507.833L625.5 525.167C625.5 527.56 623.56 529.5 621.167 529.5L591.833 529.5C589.44 529.5 587.5 527.56 587.5 525.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(592.581 515)" pointer-events="none">プログラミ<tspan x="2.66663" y="6">ング入門</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(592.581 515)">プログラミ<tspan x="2.66663" y="6">ング入門</tspan>
 		</text>
 		<path d="M583.5 415.833C583.5 413.44 585.44 411.5 587.833 411.5L623.167 411.5C625.56 411.5 627.5 413.44 627.5 415.833L627.5 433.167C627.5 435.56 625.56 437.5 623.167 437.5L587.833 437.5C585.44 437.5 583.5 435.56 583.5 433.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(588.569 423)" pointer-events="none">java<tspan x="11.1667" y="0">プログラ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(588.569 423)">java<tspan x="11.1667" y="0">プログラ</tspan>
 			<tspan x="2.91333" y="6">ミング基礎</tspan>
 		</text>
 		<path d="M78.5001 510.667C78.5001 508.918 79.9178 507.5 81.6668 507.5L117.333 507.5C119.082 507.5 120.5 508.918 120.5 510.667L120.5 523.333C120.5 525.082 119.082 526.5 117.333 526.5L81.6668 526.5C79.9178 526.5 78.5001 525.082 78.5001 523.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(85.3861 515)" pointer-events="none">情報処理<tspan x="6.66667" y="8">演習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(85.3861 515)">情報処理<tspan x="6.66667" y="8">演習</tspan>
 		</text>
 		<path d="M581.5 354.833C581.5 352.44 583.44 350.5 585.833 350.5L622.167 350.5C624.56 350.5 626.5 352.44 626.5 354.833L626.5 372.167C626.5 374.56 624.56 376.5 622.167 376.5L585.833 376.5C583.44 376.5 581.5 374.56 581.5 372.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(587.244 362)" pointer-events="none">java<tspan x="11.1667" y="0">プログラ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(587.244 362)">java<tspan x="11.1667" y="0">プログラ</tspan>
 			<tspan x="2.91333" y="6">ミング応用</tspan>
 		</text>
 		<path d="M680.5 399.167C680.5 396.037 683.037 393.5 686.167 393.5L708.833 393.5C711.963 393.5 714.5 396.037 714.5 399.167L714.5 421.833C714.5 424.963 711.963 427.5 708.833 427.5L686.167 427.5C683.037 427.5 680.5 424.963 680.5 421.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(683.989 404)" pointer-events="none">地域マネ<tspan x="0" y="8">ジメント</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(683.989 404)">地域マネ<tspan x="0" y="8">ジメント</tspan>
 			<tspan x="6.66669" y="16">入門</tspan>
 		</text>
 		<path d="M683.5 357.667C683.5 354.813 685.813 352.5 688.667 352.5L715.333 352.5C718.187 352.5 720.5 354.813 720.5 357.667L720.5 378.333C720.5 381.187 718.187 383.5 715.333 383.5L688.667 383.5C685.813 383.5 683.5 381.187 683.5 378.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(684.857 365)" pointer-events="none">地域マネジ<tspan x="0" y="8">メント総論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(684.857 365)">地域マネジ<tspan x="0" y="8">メント総論</tspan>
 		</text>
 		<path d="M632.5 446.833C632.5 444.44 634.44 442.5 636.833 442.5L666.167 442.5C668.56 442.5 670.5 444.44 670.5 446.833L670.5 464.167C670.5 466.56 668.56 468.5 666.167 468.5L636.833 468.5C634.44 468.5 632.5 466.56 632.5 464.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(637.433 453)" pointer-events="none">運動動作<tspan x="10" y="8">学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(637.433 453)">運動動作<tspan x="10" y="8">学</tspan>
 		</text>
 		<path d="M631.5 415.833C631.5 413.44 633.44 411.5 635.833 411.5L670.167 411.5C672.56 411.5 674.5 413.44 674.5 415.833L674.5 433.167C674.5 435.56 672.56 437.5 670.167 437.5L635.833 437.5C633.44 437.5 631.5 435.56 631.5 433.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(639.513 426)" pointer-events="none">体育原理</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(639.513 426)">体育原理</text>
 		<path d="M632.5 385.833C632.5 383.44 634.44 381.5 636.833 381.5L669.167 381.5C671.56 381.5 673.5 383.44 673.5 385.833L673.5 403.167C673.5 405.56 671.56 407.5 669.167 407.5L636.833 407.5C634.44 407.5 632.5 405.56 632.5 403.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(639.261 392)" pointer-events="none">スポーツ<tspan x="3.33331" y="8">栄養学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(639.261 392)">スポーツ<tspan x="3.33331" y="8">栄養学</tspan>
 		</text>
 		<path d="M348.5 293.833C348.5 291.44 350.44 289.5 352.833 289.5L393.167 289.5C395.56 289.5 397.5 291.44 397.5 293.833L397.5 311.167C397.5 313.56 395.56 315.5 393.167 315.5L352.833 315.5C350.44 315.5 348.5 313.56 348.5 311.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(362.889 304)" pointer-events="none">行政法</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(362.889 304)">行政法</text>
 		<path d="M341.5 263C341.5 260.515 343.515 258.5 346 258.5L390 258.5C392.485 258.5 394.5 260.515 394.5 263L394.5 281C394.5 283.485 392.485 285.5 390 285.5L346 285.5C343.515 285.5 341.5 283.485 341.5 281Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(357.521 274)" pointer-events="none">企業法</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(357.521 274)">企業法</text>
 		<path d="M393.5 202C393.5 199.515 395.515 197.5 398 197.5L442 197.5C444.485 197.5 446.5 199.515 446.5 202L446.5 220C446.5 222.485 444.485 224.5 442 224.5L398 224.5C395.515 224.5 393.5 222.485 393.5 220Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(406.098 213)" pointer-events="none">経済政策</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(406.098 213)">経済政策</text>
 		<path d="M407.5 293.833C407.5 291.44 409.44 289.5 411.833 289.5L456.167 289.5C458.56 289.5 460.5 291.44 460.5 293.833L460.5 311.167C460.5 313.56 458.56 315.5 456.167 315.5L411.833 315.5C409.44 315.5 407.5 313.56 407.5 311.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(419.821 300)" pointer-events="none">ビジネス<tspan x="-6.66669" y="8">エコノミクス</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(419.821 300)">ビジネス<tspan x="-6.66669" y="8">エコノミクス</tspan>
 		</text>
 		<path d="M328.5 202C328.5 199.515 330.515 197.5 333 197.5L377 197.5C379.485 197.5 381.5 199.515 381.5 202L381.5 220C381.5 222.485 379.485 224.5 377 224.5L333 224.5C330.515 224.5 328.5 222.485 328.5 220Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(344.846 213)" pointer-events="none">労働法</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(344.846 213)">労働法</text>
 		<path d="M335.5 232.833C335.5 230.44 337.44 228.5 339.833 228.5L384.167 228.5C386.56 228.5 388.5 230.44 388.5 232.833L388.5 250.167C388.5 252.56 386.56 254.5 384.167 254.5L339.833 254.5C337.44 254.5 335.5 252.56 335.5 250.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(354.531 239)" pointer-events="none">知的<tspan x="-6.66669" y="8">財産権法</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(354.531 239)">知的<tspan x="-6.66669" y="8">財産権法</tspan>
 		</text>
 		<path d="M397.5 232.833C397.5 230.44 399.44 228.5 401.833 228.5L446.167 228.5C448.56 228.5 450.5 230.44 450.5 232.833L450.5 250.167C450.5 252.56 448.56 254.5 446.167 254.5L401.833 254.5C399.44 254.5 397.5 252.56 397.5 250.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(406.806 243)" pointer-events="none">国際経済学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(406.806 243)">国際経済学</text>
 		<path d="M469.5 293.833C469.5 291.44 471.44 289.5 473.833 289.5L514.167 289.5C516.56 289.5 518.5 291.44 518.5 293.833L518.5 311.167C518.5 313.56 516.56 315.5 514.167 315.5L473.833 315.5C471.44 315.5 469.5 313.56 469.5 311.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(477.068 300)" pointer-events="none">マーケット<tspan x="0" y="8">リサーチ論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(477.068 300)">マーケット<tspan x="0" y="8">リサーチ論</tspan>
 		</text>
 		<path d="M526.5 293.833C526.5 291.44 528.44 289.5 530.833 289.5L567.167 289.5C569.56 289.5 571.5 291.44 571.5 293.833L571.5 311.167C571.5 313.56 569.56 315.5 567.167 315.5L530.833 315.5C528.44 315.5 526.5 313.56 526.5 311.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(535.091 300)" pointer-events="none">会計情報<tspan x="6.66669" y="8">演習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(535.091 300)">会計情報<tspan x="6.66669" y="8">演習</tspan>
 		</text>
 		<path d="M522.5 263C522.5 260.515 524.515 258.5 527 258.5L567 258.5C569.485 258.5 571.5 260.515 571.5 263L571.5 281C571.5 283.485 569.485 285.5 567 285.5L527 285.5C524.515 285.5 522.5 283.485 522.5 281Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(530.261 274)" pointer-events="none">税務会計論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(530.261 274)">税務会計論</text>
 		<path d="M463.5 263C463.5 260.515 465.515 258.5 468 258.5L512 258.5C514.485 258.5 516.5 260.515 516.5 263L516.5 281C516.5 283.485 514.485 285.5 512 285.5L468 285.5C465.515 285.5 463.5 283.485 463.5 281Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(473.2 274)" pointer-events="none">管理会計論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(473.2 274)">管理会計論</text>
 		<path d="M521.5 232.833C521.5 230.44 523.44 228.5 525.833 228.5L566.167 228.5C568.56 228.5 570.5 230.44 570.5 232.833L570.5 250.167C570.5 252.56 568.56 254.5 566.167 254.5L525.833 254.5C523.44 254.5 521.5 252.56 521.5 250.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(535.92 243)" pointer-events="none">監査論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(535.92 243)">監査論</text>
 		<path d="M578.5 281.333C578.5 279.769 579.769 278.5 581.333 278.5L624.667 278.5C626.232 278.5 627.5 279.769 627.5 281.333L627.5 292.667C627.5 294.232 626.232 295.5 624.667 295.5L581.333 295.5C579.769 295.5 578.5 294.232 578.5 292.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(584.204 285)" pointer-events="none">情報通信ネット<tspan x="8" y="6">ワーク</tspan>Ⅰ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(584.204 285)">情報通信ネット<tspan x="8" y="6">ワーク</tspan>Ⅰ</text>
 		<path d="M579.5 301.333C579.5 299.769 580.769 298.5 582.333 298.5L625.667 298.5C627.232 298.5 628.5 299.769 628.5 301.333L628.5 312.667C628.5 314.232 627.232 315.5 625.667 315.5L582.333 315.5C580.769 315.5 579.5 314.232 579.5 312.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(584.826 309)" pointer-events="none">情報システムⅠ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(584.826 309)">情報システムⅠ</text>
 		<path d="M578.5 261.333C578.5 259.769 579.769 258.5 581.333 258.5L624.667 258.5C626.232 258.5 627.5 259.769 627.5 261.333L627.5 272.667C627.5 274.232 626.232 275.5 624.667 275.5L581.333 275.5C579.769 275.5 578.5 274.232 578.5 272.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(584.204 268)" pointer-events="none">データベースⅠ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(584.204 268)">データベースⅠ</text>
 		<path d="M746.5 276.833C746.5 274.44 748.44 272.5 750.833 272.5L780.167 272.5C782.56 272.5 784.5 274.44 784.5 276.833L784.5 294.167C784.5 296.56 782.56 298.5 780.167 298.5L750.833 298.5C748.44 298.5 746.5 296.56 746.5 294.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(751.293 284)" pointer-events="none">アプリケー<tspan x="0" y="6">ション開発</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(751.293 284)">アプリケー<tspan x="0" y="6">ション開発</tspan>
 		</text>
 		<path d="M577.5 201.333C577.5 199.769 578.769 198.5 580.333 198.5L623.667 198.5C625.232 198.5 626.5 199.769 626.5 201.333L626.5 212.667C626.5 214.232 625.232 215.5 623.667 215.5L580.333 215.5C578.769 215.5 577.5 214.232 577.5 212.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(582.842 208)" pointer-events="none">データベースⅡ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(582.842 208)">データベースⅡ</text>
 		<path d="M578.5 221.333C578.5 219.769 579.769 218.5 581.333 218.5L624.667 218.5C626.232 218.5 627.5 219.769 627.5 221.333L627.5 232.667C627.5 234.232 626.232 235.5 624.667 235.5L581.333 235.5C579.769 235.5 578.5 234.232 578.5 232.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(583.553 225)" pointer-events="none">情報通信ネット<tspan x="8" y="6">ワーク</tspan>Ⅱ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(583.553 225)">情報通信ネット<tspan x="8" y="6">ワーク</tspan>Ⅱ</text>
 		<path d="M578.5 241.333C578.5 239.769 579.769 238.5 581.333 238.5L624.667 238.5C626.232 238.5 627.5 239.769 627.5 241.333L627.5 252.667C627.5 254.232 626.232 255.5 624.667 255.5L581.333 255.5C579.769 255.5 578.5 254.232 578.5 252.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(584.255 248)">情報システムⅡ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(584.255 248)">情報システムⅡ</text>
 		<path d="M688.5 277.834C688.5 274.336 691.336 271.5 694.833 271.5L731.167 271.5C734.664 271.5 737.5 274.336 737.5 277.834L737.5 303.167C737.5 306.664 734.664 309.5 731.167 309.5L694.833 309.5C691.336 309.5 688.5 306.664 688.5 303.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(695.575 288)" pointer-events="none">地域マネジ<tspan x="-1.33331" y="8">メント各論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(695.575 288)">地域マネジ<tspan x="-1.33331" y="8">メント各論</tspan>
 			<tspan x="32" y="8">I</tspan>
 		</text>
 		<path d="M633.5 263C633.5 260.515 635.515 258.5 638 258.5L678 258.5C680.485 258.5 682.5 260.515 682.5 263L682.5 281C682.5 283.485 680.485 285.5 678 285.5L638 285.5C635.515 285.5 633.5 283.485 633.5 281Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(644.377 270)" pointer-events="none">スポーツ<tspan x="3.33331" y="8">社会学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(644.377 270)">スポーツ<tspan x="3.33331" y="8">社会学</tspan>
 		</text>
 		<path d="M634.5 232.833C634.5 230.44 636.44 228.5 638.833 228.5L679.167 228.5C681.56 228.5 683.5 230.44 683.5 232.833L683.5 250.167C683.5 252.56 681.56 254.5 679.167 254.5L638.833 254.5C636.44 254.5 634.5 252.56 634.5 250.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(644.91 243)" pointer-events="none">救急処置</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(644.91 243)">救急処置</text>
 		<path d="M633.5 354.833C633.5 352.44 635.44 350.5 637.833 350.5L671.167 350.5C673.56 350.5 675.5 352.44 675.5 354.833L675.5 372.167C675.5 374.56 673.56 376.5 671.167 376.5L637.833 376.5C635.44 376.5 633.5 374.56 633.5 372.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(640.884 361)" pointer-events="none">運動心理<tspan x="10" y="8">学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(640.884 361)">運動心理<tspan x="10" y="8">学</tspan>
 		</text>
 		<path d="M632.5 293.833C632.5 291.44 634.44 289.5 636.833 289.5L678.167 289.5C680.56 289.5 682.5 291.44 682.5 293.833L682.5 311.167C682.5 313.56 680.56 315.5 678.167 315.5L636.833 315.5C634.44 315.5 632.5 313.56 632.5 311.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(640.275 300)" pointer-events="none">コーチング<tspan x="13.3333" y="8">学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(640.275 300)">コーチング<tspan x="13.3333" y="8">学</tspan>
 		</text>
 		<path d="M196.5 214.833C196.5 212.992 197.992 211.5 199.833 211.5L227.167 211.5C229.008 211.5 230.5 212.992 230.5 214.833L230.5 228.167C230.5 230.008 229.008 231.5 227.167 231.5L199.833 231.5C197.992 231.5 196.5 230.008 196.5 228.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(206.795 219)" pointer-events="none">公衆<tspan x="-3.33333" y="8">衛生学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(206.795 219)">公衆<tspan x="-3.33333" y="8">衛生学</tspan>
 		</text>
 		<path d="M195.5 239.667C195.5 237.918 196.918 236.5 198.667 236.5L230.333 236.5C232.082 236.5 233.5 237.918 233.5 239.667L233.5 252.333C233.5 254.082 232.082 255.5 230.333 255.5L198.667 255.5C196.918 255.5 195.5 254.082 195.5 252.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(207.318 243)" pointer-events="none">発育<tspan x="-3.33333" y="8">発達論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(207.318 243)">発育<tspan x="-3.33333" y="8">発達論</tspan>
 		</text>
 		<path d="M196.5 262.667C196.5 260.918 197.918 259.5 199.667 259.5L234.333 259.5C236.082 259.5 237.5 260.918 237.5 262.667L237.5 275.333C237.5 277.082 236.082 278.5 234.333 278.5L199.667 278.5C197.918 278.5 196.5 277.082 196.5 275.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(203.236 270)" pointer-events="none">学校保健</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(203.236 270)">学校保健</text>
 		<path d="M200.5 362.667C200.5 360.918 201.918 359.5 203.667 359.5L247.333 359.5C249.082 359.5 250.5 360.918 250.5 362.667L250.5 375.333C250.5 377.082 249.082 378.5 247.333 378.5L203.667 378.5C201.918 378.5 200.5 377.082 200.5 375.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(215.035 371)" pointer-events="none">性教育</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(215.035 371)">性教育</text>
 		<path d="M450.316 581.878 378.5 164.5" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
 		<path d="M498.5 577.429 446.5 167.5" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
 		<path d="M544.462 586.334 509.5 154.5" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
 		<path d="M588.59 580.604 569.5 156.5" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
 		<path d="M0 0 1.83045 420.149" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 628.5 573.649)"/>
 		<path d="M428.5 569.333C428.5 567.216 430.216 565.5 432.333 565.5L650.667 565.5C652.784 565.5 654.5 567.216 654.5 569.333L654.5 584.667C654.5 586.784 652.784 588.5 650.667 588.5L432.333 588.5C430.216 588.5 428.5 586.784 428.5 584.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="8" transform="translate(508.896 579)" pointer-events="none">◎基礎ゼミナール</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="8" transform="translate(508.896 579)">◎基礎ゼミナール</text>
 		<path d="M196.5 587.667C196.5 585.918 197.918 584.5 199.667 584.5L246.333 584.5C248.082 584.5 249.5 585.918 249.5 587.667L249.5 600.333C249.5 602.082 248.082 603.5 246.333 603.5L199.667 603.5C197.918 603.5 196.5 602.082 196.5 600.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(202.911 592)" pointer-events="none">◎北陸大学の<tspan x="13.3333" y="8">学び</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(202.911 592)">◎北陸大学の<tspan x="13.3333" y="8">学び</tspan>
 		</text>
 		<path d="M196.5 566.667C196.5 564.918 197.918 563.5 199.667 563.5L243.333 563.5C245.082 563.5 246.5 564.918 246.5 566.667L246.5 579.333C246.5 581.082 245.082 582.5 243.333 582.5L199.667 582.5C197.918 582.5 196.5 581.082 196.5 579.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(201.021 575)" pointer-events="none">◇スポーツ<tspan x="33.3333" y="0">Ⅰ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(201.021 575)">◇スポーツ<tspan x="33.3333" y="0">Ⅰ</tspan>
 		</text>
 		<path d="M250.5 566.667C250.5 564.918 251.918 563.5 253.667 563.5L296.333 563.5C298.082 563.5 299.5 564.918 299.5 566.667L299.5 579.333C299.5 581.082 298.082 582.5 296.333 582.5L253.667 582.5C251.918 582.5 250.5 581.082 250.5 579.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(254.324 575)" pointer-events="none">◇スポーツ<tspan x="33.3333" y="0">Ⅱ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(254.324 575)">◇スポーツ<tspan x="33.3333" y="0">Ⅱ</tspan>
 		</text>
 		<path d="M196.5 545.667C196.5 543.918 197.918 542.5 199.667 542.5L239.333 542.5C241.082 542.5 242.5 543.918 242.5 545.667L242.5 558.333C242.5 560.082 241.082 561.5 239.333 561.5L199.667 561.5C197.918 561.5 196.5 560.082 196.5 558.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(212.465 554)" pointer-events="none">哲学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(212.465 554)">哲学</text>
 		<path d="M246.5 545.667C246.5 543.918 247.918 542.5 249.667 542.5L288.333 542.5C290.082 542.5 291.5 543.918 291.5 545.667L291.5 558.333C291.5 560.082 290.082 561.5 288.333 561.5L249.667 561.5C247.918 561.5 246.5 560.082 246.5 558.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(258.66 554)" pointer-events="none">倫理学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(258.66 554)">倫理学</text>
 		<path d="M196.5 524.667C196.5 522.918 197.918 521.5 199.667 521.5L239.333 521.5C241.082 521.5 242.5 522.918 242.5 524.667L242.5 537.333C242.5 539.082 241.082 540.5 239.333 540.5L199.667 540.5C197.918 540.5 196.5 539.082 196.5 537.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(209.131 533)" pointer-events="none">心理学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(209.131 533)">心理学</text>
 		<path d="M245.5 524.667C245.5 522.918 246.918 521.5 248.667 521.5L287.333 521.5C289.082 521.5 290.5 522.918 290.5 524.667L290.5 537.333C290.5 539.082 289.082 540.5 287.333 540.5L248.667 540.5C246.918 540.5 245.5 539.082 245.5 537.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(257.677 533)" pointer-events="none">社会学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(257.677 533)">社会学</text>
 		<path d="M196.5 478.667C196.5 476.918 197.918 475.5 199.667 475.5L235.333 475.5C237.082 475.5 238.5 476.918 238.5 478.667L238.5 491.333C238.5 493.082 237.082 494.5 235.333 494.5L199.667 494.5C197.918 494.5 196.5 493.082 196.5 491.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(207.242 486)" pointer-events="none">政治学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(207.242 486)">政治学</text>
 		<path d="M241.5 478.667C241.5 476.918 242.918 475.5 244.667 475.5L280.333 475.5C282.082 475.5 283.5 476.918 283.5 478.667L283.5 491.333C283.5 493.082 282.082 494.5 280.333 494.5L244.667 494.5C242.918 494.5 241.5 493.082 241.5 491.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(251.965 486)" pointer-events="none">行政学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(251.965 486)">行政学</text>
 		<path d="M198.5 451.667C198.5 449.918 199.918 448.5 201.667 448.5L270.333 448.5C272.082 448.5 273.5 449.918 273.5 451.667L273.5 464.333C273.5 466.082 272.082 467.5 270.333 467.5L201.667 467.5C199.918 467.5 198.5 466.082 198.5 464.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(215.575 460)" pointer-events="none">自然科学概論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(215.575 460)">自然科学概論</text>
 		<path d="M197.5 425.667C197.5 423.918 198.918 422.5 200.667 422.5L266.333 422.5C268.082 422.5 269.5 423.918 269.5 425.667L269.5 438.333C269.5 440.082 268.082 441.5 266.333 441.5L200.667 441.5C198.918 441.5 197.5 440.082 197.5 438.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(212.986 433)" pointer-events="none">ジェンダー論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(212.986 433)">ジェンダー論</text>
 		<path d="M197.5 394.333C197.5 392.216 199.216 390.5 201.333 390.5L261.667 390.5C263.784 390.5 265.5 392.216 265.5 394.333L265.5 409.667C265.5 411.784 263.784 413.5 261.667 413.5L201.333 413.5C199.216 413.5 197.5 411.784 197.5 409.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(211.182 400)" pointer-events="none">北陸の文化と<tspan x="13.3333" y="8">社会</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(211.182 400)">北陸の文化と<tspan x="13.3333" y="8">社会</tspan>
 			<tspan font-weight="700" font-size="9" x="303.483" y="200">経営</tspan>
 			<tspan font-weight="700" font-size="9" x="205.348" y="200">法律</tspan>
 			<tspan font-weight="700" font-size="9" x="347.339" y="200">会計</tspan>
@@ -329,32 +329,32 @@
 			<tspan font-weight="700" font-size="5" x="414.601" y="201">地域マネジメント</tspan>
 		</text>
 		<path d="M633.5 202C633.5 199.515 635.515 197.5 638 197.5L678 197.5C680.485 197.5 682.5 199.515 682.5 202L682.5 220C682.5 222.485 680.485 224.5 678 224.5L638 224.5C635.515 224.5 633.5 222.485 633.5 220Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(641.056 209)" pointer-events="none">スポーツマ<tspan x="0" y="8">ネジメント</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(641.056 209)">スポーツマ<tspan x="0" y="8">ネジメント</tspan>
 		</text>
 		<path d="M753.5 246C753.5 243.515 755.515 241.5 758 241.5L787 241.5C789.485 241.5 791.5 243.515 791.5 246L791.5 264C791.5 266.485 789.485 268.5 787 268.5L758 268.5C755.515 268.5 753.5 266.485 753.5 264Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(758.503 253)" pointer-events="none">情報セキュ<tspan x="5.33331" y="6">リティ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(758.503 253)">情報セキュ<tspan x="5.33331" y="6">リティ</tspan>
 		</text>
 		<path d="M735.5 539.167C735.5 537.142 737.142 535.5 739.167 535.5L784.833 535.5C786.858 535.5 788.5 537.142 788.5 539.167L788.5 553.833C788.5 555.858 786.858 557.5 784.833 557.5L739.167 557.5C737.142 557.5 735.5 555.858 735.5 553.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(741.057 544)" pointer-events="none">◇日本語リテ<tspan x="6.66669" y="8">ラシー</tspan>Ⅰ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(741.057 544)">◇日本語リテ<tspan x="6.66669" y="8">ラシー</tspan>Ⅰ</text>
 		<path d="M729.5 563.667C729.5 561.918 730.918 560.5 732.667 560.5L779.333 560.5C781.082 560.5 782.5 561.918 782.5 563.667L782.5 576.333C782.5 578.082 781.082 579.5 779.333 579.5L732.667 579.5C730.918 579.5 729.5 578.082 729.5 576.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(745.937 568)" pointer-events="none">◎情報<tspan x="-6.66663" y="8">リテラシー</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(745.937 568)">◎情報<tspan x="-6.66663" y="8">リテラシー</tspan>
 		</text>
 		<path d="M741.5 512.333C741.5 510.216 743.216 508.5 745.333 508.5L790.667 508.5C792.784 508.5 794.5 510.216 794.5 512.333L794.5 527.667C794.5 529.784 792.784 531.5 790.667 531.5L745.333 531.5C743.216 531.5 741.5 529.784 741.5 527.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(747.2 518)" pointer-events="none">◇日本語リテ<tspan x="6.66663" y="8">ラシー</tspan>Ⅱ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(747.2 518)">◇日本語リテ<tspan x="6.66663" y="8">ラシー</tspan>Ⅱ</text>
 		<path d="M755.5 449.333C755.5 447.216 757.216 445.5 759.333 445.5L804.667 445.5C806.784 445.5 808.5 447.216 808.5 449.333L808.5 464.667C808.5 466.784 806.784 468.5 804.667 468.5L759.333 468.5C757.216 468.5 755.5 466.784 755.5 464.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(764.855 459)" pointer-events="none">◇統計学<tspan x="26.6667" y="0">Ⅰ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(764.855 459)">◇統計学<tspan x="26.6667" y="0">Ⅰ</tspan>
 		</text>
 		<path d="M762.5 422.333C762.5 420.216 764.216 418.5 766.333 418.5L811.667 418.5C813.784 418.5 815.5 420.216 815.5 422.333L815.5 437.667C815.5 439.784 813.784 441.5 811.667 441.5L766.333 441.5C764.216 441.5 762.5 439.784 762.5 437.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(774.759 431)" pointer-events="none">統計学Ⅱ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(774.759 431)">統計学Ⅱ</text>
 		<path d="M789.5 287.167C789.5 284.037 792.037 281.5 795.167 281.5L836.833 281.5C839.963 281.5 842.5 284.037 842.5 287.167L842.5 309.833C842.5 312.963 839.963 315.5 836.833 315.5L795.167 315.5C792.037 315.5 789.5 312.963 789.5 309.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(795.758 296)" pointer-events="none">◇リサーチプ<tspan x="3.33331" y="8">ロジェクト</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(795.758 296)">◇リサーチプ<tspan x="3.33331" y="8">ロジェクト</tspan>
 		</text>
 		<path d="M690.5 235.833C690.5 232.336 693.336 229.5 696.833 229.5L736.167 229.5C739.664 229.5 742.5 232.336 742.5 235.833L742.5 261.167C742.5 264.664 739.664 267.5 736.167 267.5L696.833 267.5C693.336 267.5 690.5 264.664 690.5 261.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(695.771 246)" pointer-events="none">地域マネジメ<tspan x="3.33337" y="8">ント各論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(695.771 246)">地域マネジメ<tspan x="3.33337" y="8">ント各論</tspan>
 			<tspan x="30" y="8">Ⅱ</tspan>
 		</text>
 		<path d="M802.412 520.512C802.875 518.477 804.9 517.201 806.935 517.664L821.678 521.012C823.713 521.474 824.989 523.499 824.527 525.534L811.138 584.484C810.676 586.52 808.651 587.795 806.616 587.333L791.873 583.985C789.837 583.523 788.562 581.498 789.024 579.462Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.975167 0.221471 -0.221471 0.975167 811.914 536)" pointer-events="none">◇<tspan x="-0.0225091" y="9.2343">キ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.975167 0.221471 -0.221471 0.975167 811.914 536)">◇<tspan x="-0.0225091" y="9.2343">キ</tspan>
 			<tspan x="-0.0450182" y="18.4686">ャ</tspan>
 			<tspan x="-0.0674672" y="27.7029">リ</tspan>
 			<tspan x="-0.0899763" y="36.9372">ア</tspan>
@@ -365,7 +365,7 @@
 			<tspan x="-9.09146" y="36.9306">Ⅰ</tspan>
 		</text>
 		<path d="M822.947 428.264C823.393 426.225 825.408 424.933 827.447 425.379L842.216 428.61C844.255 429.056 845.547 431.071 845.101 433.11L832.557 490.45C832.111 492.489 830.097 493.78 828.057 493.334L813.289 490.104C811.249 489.658 809.958 487.643 810.404 485.604Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.976899 0.213699 -0.213699 0.976899 832.759 443)" pointer-events="none">◇<tspan x="-0.0251383" y="9.21832">キ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.976899 0.213699 -0.213699 0.976899 832.759 443)">◇<tspan x="-0.0251383" y="9.21832">キ</tspan>
 			<tspan x="-0.0502765" y="18.4366">ャ</tspan>
 			<tspan x="-0.0754743" y="27.655">リ</tspan>
 			<tspan x="-0.100613" y="36.8733">ア</tspan>
@@ -376,7 +376,7 @@
 			<tspan x="-9.11702" y="36.7984">Ⅱ</tspan>
 		</text>
 		<path d="M857.068 276.553C857.514 274.514 859.529 273.222 861.568 273.668L876.337 276.899C878.376 277.345 879.668 279.36 879.221 281.399L866.579 339.191C866.133 341.231 864.118 342.522 862.079 342.076L847.311 338.845C845.271 338.399 843.98 336.385 844.426 334.345Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.976899 0.213699 -0.213699 0.976899 866.83 291)" pointer-events="none">◇<tspan x="-0.0251383" y="9.21832">キ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.976899 0.213699 -0.213699 0.976899 866.83 291)">◇<tspan x="-0.0251383" y="9.21832">キ</tspan>
 			<tspan x="-0.0503364" y="18.4367">ャ</tspan>
 			<tspan x="0.138225" y="28.6319">リ</tspan>
 			<tspan x="0.113086" y="37.8502">ア</tspan>
@@ -386,129 +386,129 @@
 			<tspan x="-8.87819" y="28.5569">ン</tspan>
 			<tspan x="-8.90332" y="37.7753">Ⅲ</tspan>
 		</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="11" transform="translate(81.1395 623)" pointer-events="none">ﾘﾒﾃﾞｨｱﾙ<tspan x="-2.66666" y="13">資格科目</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="11" transform="translate(81.1395 623)">ﾘﾒﾃﾞｨｱﾙ<tspan x="-2.66666" y="13">資格科目</tspan>
 			<tspan x="56.4005" y="0">教職科目</tspan>
 		</text>
 		<path d="M79.5001 586.667C79.5001 584.918 80.9178 583.5 82.6668 583.5L118.333 583.5C120.082 583.5 121.5 584.918 121.5 586.667L121.5 599.333C121.5 601.082 120.082 602.5 118.333 602.5L82.6668 602.5C80.9178 602.5 79.5001 601.082 79.5001 599.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(93.497 591)" pointer-events="none">基礎<tspan x="-3.33334" y="8">数学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(93.497 591)">基礎<tspan x="-3.33334" y="8">数学</tspan>
 			<tspan x="10" y="8">Ⅰ</tspan>
 		</text>
 		<path d="M79.5001 561.667C79.5001 559.918 80.9178 558.5 82.6668 558.5L118.333 558.5C120.082 558.5 121.5 559.918 121.5 561.667L121.5 574.333C121.5 576.082 120.082 577.5 118.333 577.5L82.6668 577.5C80.9178 577.5 79.5001 576.082 79.5001 574.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(93.497 566)" pointer-events="none">基礎<tspan x="-3.33334" y="8">数学</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(93.497 566)">基礎<tspan x="-3.33334" y="8">数学</tspan>
 			<tspan x="10" y="8">Ⅱ</tspan>
 		</text>
 		<path d="M79.5001 536.667C79.5001 534.918 80.9178 533.5 82.6668 533.5L118.333 533.5C120.082 533.5 121.5 534.918 121.5 536.667L121.5 549.333C121.5 551.082 120.082 552.5 118.333 552.5L82.6668 552.5C80.9178 552.5 79.5001 551.082 79.5001 549.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(93.497 541)" pointer-events="none">基礎<tspan x="0" y="8">英語</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(93.497 541)">基礎<tspan x="0" y="8">英語</tspan>
 		</text>
 		<path d="M79.5001 479.667C79.5001 477.918 80.9179 476.5 82.6668 476.5L117.333 476.5C119.082 476.5 120.5 477.918 120.5 479.667L120.5 492.333C120.5 494.082 119.082 495.5 117.333 495.5L82.6668 495.5C80.9179 495.5 79.5001 494.082 79.5001 492.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(92.7194 483)" pointer-events="none">数的<tspan x="-3.33333" y="8">処理</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(92.7194 483)">数的<tspan x="-3.33333" y="8">処理</tspan>
 			<tspan x="10" y="8">Ⅰ</tspan>
 		</text>
 		<path d="M78.5001 430.667C78.5001 428.918 79.9179 427.5 81.6668 427.5L116.333 427.5C118.082 427.5 119.5 428.918 119.5 430.667L119.5 443.333C119.5 445.082 118.082 446.5 116.333 446.5L81.6668 446.5C79.9179 446.5 78.5001 445.082 78.5001 443.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(91.967 435)" pointer-events="none">数的<tspan x="-3.33334" y="8">処理</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(91.967 435)">数的<tspan x="-3.33334" y="8">処理</tspan>
 			<tspan x="10" y="8">Ⅱ</tspan>
 		</text>
 		<path d="M79.5001 333.667C79.5001 332.47 80.4701 331.5 81.6668 331.5L118.333 331.5C119.53 331.5 120.5 332.47 120.5 333.667L120.5 342.333C120.5 343.53 119.53 344.5 118.333 344.5L81.6668 344.5C80.4701 344.5 79.5001 343.53 79.5001 342.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(86.1215 339)" pointer-events="none">数的処理<tspan x="21.3333" y="0">Ⅲ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(86.1215 339)">数的処理<tspan x="21.3333" y="0">Ⅲ</tspan>
 		</text>
 		<path d="M79.5001 302.667C79.5001 301.47 80.4701 300.5 81.6668 300.5L118.333 300.5C119.53 300.5 120.5 301.47 120.5 302.667L120.5 311.333C120.5 312.53 119.53 313.5 118.333 313.5L81.6668 313.5C80.4701 313.5 79.5001 312.53 79.5001 311.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(86.1215 308)" pointer-events="none">数的処理<tspan x="21.3333" y="0">Ⅳ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(86.1215 308)">数的処理<tspan x="21.3333" y="0">Ⅳ</tspan>
 		</text>
 		<path d="M78.5001 453.667C78.5001 451.918 79.9179 450.5 81.6668 450.5L116.333 450.5C118.082 450.5 119.5 451.918 119.5 453.667L119.5 466.333C119.5 468.082 118.082 469.5 116.333 469.5L81.6668 469.5C79.9179 469.5 78.5001 468.082 78.5001 466.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(92.0427 457)" pointer-events="none">教養<tspan x="-3.33334" y="8">総合</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(92.0427 457)">教養<tspan x="-3.33334" y="8">総合</tspan>
 			<tspan x="10" y="8">Ⅰ</tspan>
 		</text>
 		<path d="M78.5001 408.5C78.5001 406.843 79.8432 405.5 81.5001 405.5L116.5 405.5C118.157 405.5 119.5 406.843 119.5 408.5L119.5 420.5C119.5 422.157 118.157 423.5 116.5 423.5L81.5001 423.5C79.8432 423.5 78.5001 422.157 78.5001 420.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(91.9492 412)" pointer-events="none">教養<tspan x="-3.33334" y="8">総合</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(91.9492 412)">教養<tspan x="-3.33334" y="8">総合</tspan>
 			<tspan x="10" y="8">Ⅱ</tspan>
 		</text>
 		<path d="M79.5001 317.667C79.5001 316.47 80.4701 315.5 81.6667 315.5L119.333 315.5C120.53 315.5 121.5 316.47 121.5 317.667L121.5 326.333C121.5 327.53 120.53 328.5 119.333 328.5L81.6667 328.5C80.4701 328.5 79.5001 327.53 79.5001 326.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(86.7976 323)" pointer-events="none">教養総合<tspan x="21.3333" y="0">Ⅲ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(86.7976 323)">教養総合<tspan x="21.3333" y="0">Ⅲ</tspan>
 		</text>
 		<path d="M79.5001 284.667C79.5001 283.47 80.4701 282.5 81.6668 282.5L118.333 282.5C119.53 282.5 120.5 283.47 120.5 284.667L120.5 293.333C120.5 294.53 119.53 295.5 118.333 295.5L81.6668 295.5C80.4701 295.5 79.5001 294.53 79.5001 293.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(86.1215 291)" pointer-events="none">教養総合<tspan x="21.3333" y="0">Ⅳ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(86.1215 291)">教養総合<tspan x="21.3333" y="0">Ⅳ</tspan>
 		</text>
 		<path d="M79.5001 270.5C79.5001 269.396 80.3955 268.5 81.5001 268.5L118.5 268.5C119.605 268.5 120.5 269.396 120.5 270.5L120.5 278.5C120.5 279.605 119.605 280.5 118.5 280.5L81.5001 280.5C80.3955 280.5 79.5001 279.605 79.5001 278.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(83.4548 276)" pointer-events="none">情報処理論<tspan x="26.6667" y="0">Ⅰ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(83.4548 276)">情報処理論<tspan x="26.6667" y="0">Ⅰ</tspan>
 		</text>
 		<path d="M79.5001 253C79.5001 251.619 80.6194 250.5 82.0001 250.5L119 250.5C120.381 250.5 121.5 251.619 121.5 253L121.5 263C121.5 264.381 120.381 265.5 119 265.5L82.0001 265.5C80.6194 265.5 79.5001 264.381 79.5001 263Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(84.1309 260)" pointer-events="none">情報処理論<tspan x="26.6667" y="0">Ⅱ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(84.1309 260)">情報処理論<tspan x="26.6667" y="0">Ⅱ</tspan>
 		</text>
 		<path d="M79.5001 236.833C79.5001 235.545 80.5447 234.5 81.8334 234.5L119.167 234.5C120.455 234.5 121.5 235.545 121.5 236.833L121.5 246.167C121.5 247.455 120.455 248.5 119.167 248.5L81.8334 248.5C80.5447 248.5 79.5001 247.455 79.5001 246.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(84.1309 243)" pointer-events="none">情報処理論<tspan x="26.6667" y="0">Ⅲ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(84.1309 243)">情報処理論<tspan x="26.6667" y="0">Ⅲ</tspan>
 		</text>
 		<path d="M131.5 564.5C131.5 562.843 132.843 561.5 134.5 561.5L185.5 561.5C187.157 561.5 188.5 562.843 188.5 564.5L188.5 576.5C188.5 578.157 187.157 579.5 185.5 579.5L134.5 579.5C132.843 579.5 131.5 578.157 131.5 576.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(149.556 572)" pointer-events="none">教職論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(149.556 572)">教職論</text>
 		<path d="M131.5 534.667C131.5 532.918 132.918 531.5 134.667 531.5L184.333 531.5C186.082 531.5 187.5 532.918 187.5 534.667L187.5 547.333C187.5 549.082 186.082 550.5 184.333 550.5L134.667 550.5C132.918 550.5 131.5 549.082 131.5 547.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.4 542)" pointer-events="none">教育学概論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.4 542)">教育学概論</text>
 		<path d="M131.5 479.667C131.5 477.918 132.918 476.5 134.667 476.5L184.333 476.5C186.082 476.5 187.5 477.918 187.5 479.667L187.5 492.333C187.5 494.082 186.082 495.5 184.333 495.5L134.667 495.5C132.918 495.5 131.5 494.082 131.5 492.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 487)" pointer-events="none">教育課程論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 487)">教育課程論</text>
 		<path d="M131.5 458.5C131.5 456.843 132.843 455.5 134.5 455.5L184.5 455.5C186.157 455.5 187.5 456.843 187.5 458.5L187.5 470.5C187.5 472.157 186.157 473.5 184.5 473.5L134.5 473.5C132.843 473.5 131.5 472.157 131.5 470.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 462)" pointer-events="none">保健体育科<tspan x="3.33334" y="8">教育法</tspan>Ⅰ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 462)">保健体育科<tspan x="3.33334" y="8">教育法</tspan>Ⅰ</text>
 		<path d="M131.5 434.667C131.5 432.918 132.918 431.5 134.667 431.5L185.333 431.5C187.082 431.5 188.5 432.918 188.5 434.667L188.5 447.333C188.5 449.082 187.082 450.5 185.333 450.5L134.667 450.5C132.918 450.5 131.5 449.082 131.5 447.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.889 442)" pointer-events="none">教育心理学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.889 442)">教育心理学</text>
 		<path d="M131.5 410.667C131.5 408.918 132.918 407.5 134.667 407.5L184.333 407.5C186.082 407.5 187.5 408.918 187.5 410.667L187.5 423.333C187.5 425.082 186.082 426.5 184.333 426.5L134.667 426.5C132.918 426.5 131.5 425.082 131.5 423.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 418)" pointer-events="none">教育方法論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 418)">教育方法論</text>
 		<path d="M131.5 386.667C131.5 384.918 132.918 383.5 134.667 383.5L184.333 383.5C186.082 383.5 187.5 384.918 187.5 386.667L187.5 399.333C187.5 401.082 186.082 402.5 184.333 402.5L134.667 402.5C132.918 402.5 131.5 401.082 131.5 399.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 390)" pointer-events="none">保健体育科<tspan x="3.33334" y="8">教育法</tspan>Ⅱ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 390)">保健体育科<tspan x="3.33334" y="8">教育法</tspan>Ⅱ</text>
 		<path d="M131.5 361.667C131.5 359.918 132.918 358.5 134.667 358.5L184.333 358.5C186.082 358.5 187.5 359.918 187.5 361.667L187.5 374.333C187.5 376.082 186.082 377.5 184.333 377.5L134.667 377.5C132.918 377.5 131.5 376.082 131.5 374.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(145.54 366)" pointer-events="none">特別支援<tspan x="6.66666" y="8">教育</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(145.54 366)">特別支援<tspan x="6.66666" y="8">教育</tspan>
 		</text>
 		<path d="M131.5 334.5C131.5 333.396 132.395 332.5 133.5 332.5L185.5 332.5C186.605 332.5 187.5 333.396 187.5 334.5L187.5 342.5C187.5 343.605 186.605 344.5 185.5 344.5L133.5 344.5C132.395 344.5 131.5 343.605 131.5 342.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 340)" pointer-events="none">道徳教育論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 340)">道徳教育論</text>
 		<path d="M131.5 320.5C131.5 319.396 132.395 318.5 133.5 318.5L185.5 318.5C186.605 318.5 187.5 319.396 187.5 320.5L187.5 328.5C187.5 329.605 186.605 330.5 185.5 330.5L133.5 330.5C132.395 330.5 131.5 329.605 131.5 328.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(137.54 326)" pointer-events="none">生徒・進路指導論</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(137.54 326)">生徒・進路指導論</text>
 		<path d="M131.5 300.667C131.5 298.918 132.918 297.5 134.667 297.5L184.333 297.5C186.082 297.5 187.5 298.918 187.5 300.667L187.5 313.333C187.5 315.082 186.082 316.5 184.333 316.5L134.667 316.5C132.918 316.5 131.5 315.082 131.5 313.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 304)" pointer-events="none">保健体育科<tspan x="3.33334" y="8">教育法</tspan>Ⅲ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 304)">保健体育科<tspan x="3.33334" y="8">教育法</tspan>Ⅲ</text>
 		<path d="M131.5 285.333C131.5 284.321 132.321 283.5 133.333 283.5L185.667 283.5C186.679 283.5 187.5 284.321 187.5 285.333L187.5 292.667C187.5 293.679 186.679 294.5 185.667 294.5L133.333 294.5C132.321 294.5 131.5 293.679 131.5 292.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(135.54 290)" pointer-events="none">公民科教育法<tspan x="40" y="0">Ⅰ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(135.54 290)">公民科教育法<tspan x="40" y="0">Ⅰ</tspan>
 		</text>
 		<path d="M131.5 271.333C131.5 270.321 132.321 269.5 133.333 269.5L185.667 269.5C186.679 269.5 187.5 270.321 187.5 271.333L187.5 278.667C187.5 279.679 186.679 280.5 185.667 280.5L133.333 280.5C132.321 280.5 131.5 279.679 131.5 278.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 276)" pointer-events="none">教育社会学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 276)">教育社会学</text>
 		<path d="M131.5 250.667C131.5 248.918 132.918 247.5 134.667 247.5L184.333 247.5C186.082 247.5 187.5 248.918 187.5 250.667L187.5 263.333C187.5 265.082 186.082 266.5 184.333 266.5L134.667 266.5C132.918 266.5 131.5 265.082 131.5 263.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 254)" pointer-events="none">特別活動と<tspan x="0" y="8">総合的学習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 254)">特別活動と<tspan x="0" y="8">総合的学習</tspan>
 		</text>
 		<path d="M131.5 235.333C131.5 234.321 132.321 233.5 133.333 233.5L185.667 233.5C186.679 233.5 187.5 234.321 187.5 235.333L187.5 242.667C187.5 243.679 186.679 244.5 185.667 244.5L133.333 244.5C132.321 244.5 131.5 243.679 131.5 242.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(145.54 241)" pointer-events="none">教育相談</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(145.54 241)">教育相談</text>
 		<path d="M131.5 214.667C131.5 212.918 132.918 211.5 134.667 211.5L184.333 211.5C186.082 211.5 187.5 212.918 187.5 214.667L187.5 227.333C187.5 229.082 186.082 230.5 184.333 230.5L134.667 230.5C132.918 230.5 131.5 229.082 131.5 227.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 219)" pointer-events="none">保健体育科<tspan x="3.33334" y="8">教育法</tspan>Ⅳ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 219)">保健体育科<tspan x="3.33334" y="8">教育法</tspan>Ⅳ</text>
 		<path d="M131.5 197C131.5 195.619 132.619 194.5 134 194.5L185 194.5C186.381 194.5 187.5 195.619 187.5 197L187.5 207C187.5 208.381 186.381 209.5 185 209.5L134 209.5C132.619 209.5 131.5 208.381 131.5 207Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(135.54 203)" pointer-events="none">公民科教育法<tspan x="40" y="0">Ⅱ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(135.54 203)">公民科教育法<tspan x="40" y="0">Ⅱ</tspan>
 		</text>
 		<path d="M131.5 160.333C131.5 159.321 132.321 158.5 133.333 158.5L185.667 158.5C186.679 158.5 187.5 159.321 187.5 160.333L187.5 167.667C187.5 168.679 186.679 169.5 185.667 169.5L133.333 169.5C132.321 169.5 131.5 168.679 131.5 167.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 166)" pointer-events="none">教育実習<tspan x="26.6667" y="0">Ⅰ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 166)">教育実習<tspan x="26.6667" y="0">Ⅰ</tspan>
 		</text>
 		<path d="M131.5 174.667C131.5 172.918 132.918 171.5 134.667 171.5L184.333 171.5C186.082 171.5 187.5 172.918 187.5 174.667L187.5 187.333C187.5 189.082 186.082 190.5 184.333 190.5L134.667 190.5C132.918 190.5 131.5 189.082 131.5 187.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(145.54 178)" pointer-events="none">教育実習<tspan x="-6.66667" y="8">事前事後指導</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(145.54 178)">教育実習<tspan x="-6.66667" y="8">事前事後指導</tspan>
 		</text>
 		<path d="M131.5 147.333C131.5 146.321 132.321 145.5 133.333 145.5L185.667 145.5C186.679 145.5 187.5 146.321 187.5 147.333L187.5 154.667C187.5 155.679 186.679 156.5 185.667 156.5L133.333 156.5C132.321 156.5 131.5 155.679 131.5 154.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 153)" pointer-events="none">教育実習<tspan x="26.6667" y="0">Ⅱ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(142.207 153)">教育実習<tspan x="26.6667" y="0">Ⅱ</tspan>
 		</text>
 		<path d="M131.5 129.167C131.5 127.694 132.694 126.5 134.167 126.5L184.833 126.5C186.306 126.5 187.5 127.694 187.5 129.167L187.5 139.833C187.5 141.306 186.306 142.5 184.833 142.5L134.167 142.5C132.694 142.5 131.5 141.306 131.5 139.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(142.873 132)" pointer-events="none">教職実践演習<tspan x="2.66667" y="6">（中・高）</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(142.873 132)">教職実践演習<tspan x="2.66667" y="6">（中・高）</tspan>
 		</text>
 		<path d="M0 0 863.876 0.000104987" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="0.666667 0.666667" fill="none" fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 951.376 191.5)"/>
 		<path d="M0 0 826.987 0.000104987" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="0.666667 0.666667" fill="none" fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 867.487 345.5)"/>
 		<path d="M0 0 795.937 0.000104987" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" stroke-dasharray="0.666667 0.666667" fill="none" fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 833.438 498.5)"/>
 		<path d="M253.5 587.667C253.5 585.918 254.918 584.5 256.667 584.5L299.333 584.5C301.082 584.5 302.5 585.918 302.5 587.667L302.5 600.333C302.5 602.082 301.082 603.5 299.333 603.5L256.667 603.5C254.918 603.5 253.5 602.082 253.5 600.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(267.719 596)" pointer-events="none">日本史</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(267.719 596)">日本史</text>
 		<path d="M79.5001 197.333C79.5001 195.769 80.7686 194.5 82.3334 194.5L117.667 194.5C119.232 194.5 120.5 195.769 120.5 197.333L120.5 208.667C120.5 210.232 119.232 211.5 117.667 211.5L82.3334 211.5C80.7686 211.5 79.5001 210.232 79.5001 208.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(94.1214 201)" pointer-events="none">柔道<tspan x="-8" y="6">実践演習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(94.1214 201)">柔道<tspan x="-8" y="6">実践演習</tspan>
 			<tspan x="13.3333" y="6">Ⅱ</tspan>
 		</text>
 		<path d="M79.5001 382.667C79.5001 380.918 80.9179 379.5 82.6668 379.5L117.333 379.5C119.082 379.5 120.5 380.918 120.5 382.667L120.5 395.333C120.5 397.082 119.082 398.5 117.333 398.5L82.6668 398.5C80.9179 398.5 79.5001 397.082 79.5001 395.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(88.7194 387)" pointer-events="none">サッカー<tspan x="0" y="6">実践演習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(88.7194 387)">サッカー<tspan x="0" y="6">実践演習</tspan>
 		</text>
 		<path d="M699.5 489.333C699.5 487.216 701.216 485.5 703.333 485.5L733.667 485.5C735.784 485.5 737.5 487.216 737.5 489.333L737.5 504.667C737.5 506.784 735.784 508.5 733.667 508.5L703.333 508.5C701.216 508.5 699.5 506.784 699.5 504.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(701.961 495)" pointer-events="none">地域マネジメ<tspan x="2.66663" y="6">ント実習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(701.961 495)">地域マネジメ<tspan x="2.66663" y="6">ント実習</tspan>
 			<tspan x="24" y="6">Ⅰ</tspan>
 		</text>
 		<path d="M729.5 360.167C729.5 358.142 731.142 356.5 733.167 356.5L763.833 356.5C765.858 356.5 767.5 358.142 767.5 360.167L767.5 374.833C767.5 376.858 765.858 378.5 763.833 378.5L733.167 378.5C731.142 378.5 729.5 376.858 729.5 374.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(732.048 366)" pointer-events="none">地域マネジメ<tspan x="2.66663" y="6">ント実習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(732.048 366)">地域マネジメ<tspan x="2.66663" y="6">ント実習</tspan>
 			<tspan x="24" y="6">Ⅱ</tspan>
 		</text>
 		<path d="M768.645 188.562C769.326 185.506 772.356 183.58 775.412 184.261L797.546 189.195C800.602 189.876 802.527 192.905 801.846 195.961L795.151 226C794.47 229.056 791.44 230.981 788.384 230.3L766.25 225.367C763.194 224.686 761.269 221.656 761.95 218.6Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="4" transform="matrix(0.976052 0.217537 -0.217537 0.976052 779.218 192)" pointer-events="none">全学年<tspan x="1.93136" y="4.69223">対象</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="4" transform="matrix(0.976052 0.217537 -0.217537 0.976052 779.218 192)">全学年<tspan x="1.93136" y="4.69223">対象</tspan>
 			<tspan font-size="5" x="-4.78714" y="17.4595">スポーツ</tspan>
 			<tspan font-size="5" x="0.542603" y="23.4434">実習</tspan>
 			<tspan font-size="5" x="-3.06065" y="29.3691">Ⅰ</tspan>
@@ -516,11 +516,11 @@
 			<tspan font-size="5" x="9.50046" y="29.6432">Ⅷ</tspan>
 		</text>
 		<path d="M690.5 540.333C690.5 538.216 692.216 536.5 694.333 536.5L723.667 536.5C725.784 536.5 727.5 538.216 727.5 540.333L727.5 555.667C727.5 557.784 725.784 559.5 723.667 559.5L694.333 559.5C692.216 559.5 690.5 557.784 690.5 555.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(697.857 543)" pointer-events="none">ファシリ<tspan x="-2.66663" y="6">テーション</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(697.857 543)">ファシリ<tspan x="-2.66663" y="6">テーション</tspan>
 			<tspan x="5.33337" y="12">実習</tspan>
 		</text>
 		<path d="M780.299 136.037C780.965 132.978 783.985 131.037 787.044 131.703L809.203 136.524C812.262 137.189 814.203 140.209 813.537 143.269L805.625 179.635C804.959 182.694 801.94 184.635 798.88 183.969L776.721 179.148C773.662 178.483 771.721 175.463 772.387 172.403Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="4" transform="matrix(0.97714 0.212597 -0.212597 0.97714 790.883 139)" pointer-events="none">全学年<tspan x="1.93391" y="4.69621">対象</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="4" transform="matrix(0.97714 0.212597 -0.212597 0.97714 790.883 139)">全学年<tspan x="1.93391" y="4.69621">対象</tspan>
 			<tspan font-size="5" x="-4.58084" y="18.3944">マネジメ</tspan>
 			<tspan font-size="5" x="-4.55168" y="24.5284">ント実践</tspan>
 			<tspan font-size="5" x="0.782324" y="30.5316">講座</tspan>
@@ -528,22 +528,22 @@
 			<tspan font-size="5" x="2.48408" y="37.3251">〜</tspan>
 			<tspan font-size="5" x="9.53946" y="36.8135">Ⅷ</tspan>
 		</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 44.1244 262)" x="4.03076" y="2.46924">３年</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 44.128 405)" x="4.03076" y="2.46924">２年</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 44.1244 535)" x="4.03076" y="2.46924">１年</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 44.1244 262)" x="4.03076" y="2.46924">３年</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 44.128 405)" x="4.03076" y="2.46924">２年</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="13" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 44.1244 535)" x="4.03076" y="2.46924">１年</text>
 		<path d="M318.5 582.333C318.5 580.216 320.216 578.5 322.333 578.5L359.667 578.5C361.784 578.5 363.5 580.216 363.5 582.333L363.5 597.667C363.5 599.784 361.784 601.5 359.667 601.5L322.333 601.5C320.216 601.5 318.5 599.784 318.5 597.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(327.415 592)" pointer-events="none">◎英語Ⅰ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(327.415 592)">◎英語Ⅰ</text>
 		<path d="M307.5 532.333C307.5 530.216 309.216 528.5 311.333 528.5L348.667 528.5C350.784 528.5 352.5 530.216 352.5 532.333L352.5 547.667C352.5 549.784 350.784 551.5 348.667 551.5L311.333 551.5C309.216 551.5 307.5 549.784 307.5 547.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(316.241 542)" pointer-events="none">◎英語Ⅱ</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(316.241 542)">◎英語Ⅱ</text>
 		<path d="M312.5 557.333C312.5 555.216 314.216 553.5 316.333 553.5L353.667 553.5C355.784 553.5 357.5 555.216 357.5 557.333L357.5 572.667C357.5 574.784 355.784 576.5 353.667 576.5L316.333 576.5C314.216 576.5 312.5 574.784 312.5 572.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(318.068 563)" pointer-events="none">実用英語<tspan x="26.6667" y="0">Ⅰ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(318.068 563)">実用英語<tspan x="26.6667" y="0">Ⅰ</tspan>
 			<tspan x="3.33334" y="8">中国語</tspan>Ⅰ</text>
 		<path d="M79.5001 218.333C79.5001 216.769 80.7686 215.5 82.3334 215.5L117.667 215.5C119.232 215.5 120.5 216.769 120.5 218.333L120.5 229.667C120.5 231.232 119.232 232.5 117.667 232.5L82.3334 232.5C80.7686 232.5 79.5001 231.232 79.5001 229.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(94.1215 222)" pointer-events="none">柔道<tspan x="-8" y="6">実践演習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(94.1215 222)">柔道<tspan x="-8" y="6">実践演習</tspan>
 			<tspan x="13.3333" y="6">Ⅰ</tspan>
 		</text>
 		<path d="M273.375 143.342C272.797 140.62 274.535 137.944 277.258 137.366L296.975 133.177C299.697 132.599 302.373 134.337 302.951 137.059L319.136 213.241C319.714 215.964 317.976 218.64 315.253 219.218L295.536 223.407C292.814 223.985 290.138 222.247 289.559 219.524Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.978171 -0.207802 0.207802 0.978171 282.321 151)" pointer-events="none">全学年<tspan x="2.52431" y="6.67016">対象</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.978171 -0.207802 0.207802 0.978171 282.321 151)">全学年<tspan x="2.52431" y="6.67016">対象</tspan>
 			<tspan font-size="7" x="1.38831" y="20.7413">教育</tspan>
 			<tspan font-size="7" x="1.35202" y="28.9121">実践</tspan>
 			<tspan font-size="7" x="1.31572" y="37.0829">講座</tspan>
@@ -551,31 +551,31 @@
 			<tspan font-size="7" x="4.60406" y="61.2948">Ⅷ</tspan>
 		</text>
 		<path d="M356.06 526.874C355.482 524.151 357.22 521.476 359.942 520.897L379.66 516.709C382.382 516.13 385.058 517.868 385.636 520.591L394.937 564.371C395.515 567.094 393.777 569.77 391.055 570.348L371.338 574.537C368.615 575.115 365.939 573.377 365.361 570.655Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="matrix(0.978171 -0.207802 0.207802 0.978171 366.068 533)" pointer-events="none">海外<tspan x="-0.0362642" y="8.17083">研修</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="matrix(0.978171 -0.207802 0.207802 0.978171 366.068 533)">海外<tspan x="-0.0362642" y="8.17083">研修</tspan>
 			<tspan x="3.32463" y="16.041">Ⅰ</tspan>
 			<tspan x="3.25204" y="32.3827">Ⅲ</tspan>
 		</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.218845 0.97576 -0.97576 0.218845 297.27 198)">〜<tspan x="361.174" y="2.65488">〜</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.218845 0.97576 -0.97576 0.218845 297.27 198)">〜<tspan x="361.174" y="2.65488">〜</tspan>
 		</text>
 		<path d="M301.5 507.333C301.5 505.216 303.216 503.5 305.333 503.5L342.667 503.5C344.784 503.5 346.5 505.216 346.5 507.333L346.5 522.667C346.5 524.784 344.784 526.5 342.667 526.5L305.333 526.5C303.216 526.5 301.5 524.784 301.5 522.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(307.028 513)" pointer-events="none">実用英語<tspan x="26.6667" y="0">Ⅱ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(307.028 513)">実用英語<tspan x="26.6667" y="0">Ⅱ</tspan>
 			<tspan x="3.33334" y="8">中国語</tspan>Ⅱ</text>
 		<path d="M294.5 467.167C294.5 464.589 296.589 462.5 299.167 462.5L334.833 462.5C337.411 462.5 339.5 464.589 339.5 467.167L339.5 485.833C339.5 488.411 337.411 490.5 334.833 490.5L299.167 490.5C296.589 490.5 294.5 488.411 294.5 485.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(299.978 474)" pointer-events="none">実用英語<tspan x="26.6667" y="0">Ⅲ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(299.978 474)">実用英語<tspan x="26.6667" y="0">Ⅲ</tspan>
 			<tspan x="3.33331" y="8">中国語</tspan>Ⅲ</text>
 		<path d="M279.5 396.333C279.5 393.664 281.664 391.5 284.333 391.5L319.667 391.5C322.336 391.5 324.5 393.664 324.5 396.333L324.5 415.667C324.5 418.336 322.336 420.5 319.667 420.5L284.333 420.5C281.664 420.5 279.5 418.336 279.5 415.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(284.522 404)" pointer-events="none">実用英語<tspan x="26.6667" y="0">Ⅳ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(284.522 404)">実用英語<tspan x="26.6667" y="0">Ⅳ</tspan>
 			<tspan x="3.33334" y="8">中国語</tspan>Ⅳ</text>
 		<path d="M263.5 325.167C263.5 323.142 265.142 321.5 267.167 321.5L305.833 321.5C307.858 321.5 309.5 323.142 309.5 325.167L309.5 339.833C309.5 341.858 307.858 343.5 305.833 343.5L267.167 343.5C265.142 343.5 263.5 341.858 263.5 339.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(269.457 334)" pointer-events="none">実用英語<tspan x="26.6667" y="0">Ⅴ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(269.457 334)">実用英語<tspan x="26.6667" y="0">Ⅴ</tspan>
 		</text>
 		<path d="M248.5 261.167C248.5 259.142 250.142 257.5 252.167 257.5L290.833 257.5C292.858 257.5 294.5 259.142 294.5 261.167L294.5 275.833C294.5 277.858 292.858 279.5 290.833 279.5L252.167 279.5C250.142 279.5 248.5 277.858 248.5 275.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(254.231 270)" pointer-events="none">実用英語<tspan x="26.6667" y="0">Ⅵ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(254.231 270)">実用英語<tspan x="26.6667" y="0">Ⅵ</tspan>
 		</text>
 		<path d="M196.5 327.667C196.5 325.918 197.918 324.5 199.667 324.5L246.333 324.5C248.082 324.5 249.5 325.918 249.5 327.667L249.5 340.333C249.5 342.082 248.082 343.5 246.333 343.5L199.667 343.5C197.918 343.5 196.5 342.082 196.5 340.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(206.244 336)" pointer-events="none">国際政治学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(206.244 336)">国際政治学</text>
 		<path d="M196.5 287C196.5 285.619 197.619 284.5 199 284.5L240 284.5C241.381 284.5 242.5 285.619 242.5 287L242.5 297C242.5 298.381 241.381 299.5 240 299.5L199 299.5C197.619 299.5 196.5 298.381 196.5 297Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(205.798 294)" pointer-events="none">生命科学<tspan x="20.8299" y="-160">※</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(205.798 294)">生命科学<tspan x="20.8299" y="-160">※</tspan>
 			<tspan x="27.4966" y="-160">日本事情・</tspan>
 			<tspan x="20.8299" y="-152">日本語等の留</tspan>
 			<tspan x="20.8299" y="-144">学生特別科目</tspan>
@@ -583,12 +583,12 @@
 			<tspan x="20.8299" y="-128">います。</tspan>
 		</text>
 		<path d="M332.344 418.33C331.766 415.607 333.504 412.931 336.226 412.353L355.944 408.164C358.666 407.586 361.342 409.324 361.92 412.047L371.62 457.707C372.199 460.429 370.461 463.105 367.738 463.683L348.021 467.872C345.298 468.45 342.623 466.712 342.044 463.99Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="matrix(0.978171 -0.207802 0.207802 0.978171 342.552 426)">海外<tspan x="-0.0362941" y="8.17082">研修</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="matrix(0.978171 -0.207802 0.207802 0.978171 342.552 426)">海外<tspan x="-0.0362941" y="8.17082">研修</tspan>
 			<tspan x="3.32463" y="16.041">Ⅳ</tspan>
 			<tspan x="3.45984" y="31.4045">Ⅴ</tspan>
 		</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.218845 0.97576 -0.97576 0.218845 349.985 443)">〜</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="8" transform="translate(810.934 120)">◎必修科目<tspan x="48" y="0">◇履修指定科目</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.218845 0.97576 -0.97576 0.218845 349.985 443)">〜</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="8" transform="translate(810.934 120)">◎必修科目<tspan x="48" y="0">◇履修指定科目</tspan>
 		</text>
 		<path class="back" d="M39.6324 43.1502 331.602 43.1502 331.602 69.8356 39.6324 69.8356Z" fill="#FFFFFF" fill-rule="evenodd"/>
 		<path d="M331.602 43.1502 623.571 43.1502 623.571 69.8356 331.602 69.8356Z" fill="#FFFFFF" fill-rule="evenodd"/>
@@ -610,92 +610,92 @@
 		<path d="M38.9658 43.1502 951.822 43.1502" stroke="#000000" stroke-width="1.33333" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd"/>
 		<path d="M38.9658 108.236 951.822 108.236" stroke="#000000" stroke-width="1.33333" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd"/>
 		<g clip-path="url(#clip15)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(44.4324 59)">（１）知識・技能</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(44.4324 59)">（１）知識・技能</text>
 		</g>
 		<g clip-path="url(#clip16)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(336.402 59)">（２）思考力・判断力・表現力</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(336.402 59)">（２）思考力・判断力・表現力</text>
 		</g>
 		<g clip-path="url(#clip17)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(628.371 59)">（３）主体性・多様性・協働性</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(628.371 59)">（３）主体性・多様性・協働性</text>
 		</g>
 		<g clip-path="url(#clip18)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(44.4324 85)">①社会の一員として必要</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(44.4324 85)">①社会の一員として必要</text>
 		</g>
 		<g clip-path="url(#clip19)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(44.4324 100)">となる幅広い知識</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(44.4324 100)">となる幅広い知識</text>
 		</g>
 		<g clip-path="url(#clip20)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(190.417 85)">②マネジメント関連分野</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(190.417 85)">②マネジメント関連分野</text>
 		</g>
 		<g clip-path="url(#clip21)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(190.417 100)">の専門知識と技能</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(190.417 100)">の専門知識と技能</text>
 		</g>
 		<g clip-path="url(#clip22)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(336.402 85)">③知識活用力</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(336.402 85)">③知識活用力</text>
 		</g>
 		<g clip-path="url(#clip23)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(495.93 85)">④経験から学ぶ力</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(495.93 85)">④経験から学ぶ力</text>
 		</g>
 		<g clip-path="url(#clip24)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(628.371 85)">⑤主体性・協働性と課題</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(628.371 85)">⑤主体性・協働性と課題</text>
 		</g>
 		<g clip-path="url(#clip25)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(628.371 100)">解決力</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(628.371 100)">解決力</text>
 		</g>
 		<g clip-path="url(#clip26)">
-			<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(774.355 85)" pointer-events="none">⑥多様性・国際性理解と行動力</text>
+			<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" transform="translate(774.355 85)">⑥多様性・国際性理解と行動力</text>
 		</g>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(47.8941 38)" pointer-events="none">経済経営学部カリキュラムツリー<tspan font-size="13" x="709.333" y="0">20190409</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="21" transform="translate(47.8941 38)">経済経営学部カリキュラムツリー<tspan font-size="13" x="709.333" y="0">20190409</tspan>
 		</text>
 		<path d="M483.5 415.833C483.5 413.44 485.44 411.5 487.833 411.5L524.167 411.5C526.56 411.5 528.5 413.44 528.5 415.833L528.5 433.167C528.5 435.56 526.56 437.5 524.167 437.5L487.833 437.5C485.44 437.5 483.5 435.56 483.5 433.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(495.821 422)" pointer-events="none">消費者<tspan x="0" y="8">行動論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(495.821 422)">消費者<tspan x="0" y="8">行動論</tspan>
 		</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 875.948 434)" x="3.7207" y="2.2793">正課外活動</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" writing-mode="tb-rl" transform="matrix(1 -4.37114e-08 4.37114e-08 1 875.948 434)" x="3.7207" y="2.2793">正課外活動</text>
 		<path d="M0 0 17.0867 394.186" stroke="#000000" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 671.5 567.686)"/>
 		<path d="M372.5 323.334C372.5 321.216 374.216 319.5 376.334 319.5L706.667 319.5C708.784 319.5 710.5 321.216 710.5 323.334L710.5 338.666C710.5 340.784 708.784 342.5 706.667 342.5L376.334 342.5C374.216 342.5 372.5 340.784 372.5 338.666Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="8" transform="translate(508.896 333)" pointer-events="none">◎専門ゼミナール</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="8" transform="translate(508.896 333)">◎専門ゼミナール</text>
 		<path d="M326.5 143.167C326.5 138.932 329.932 135.5 334.167 135.5L747.833 135.5C752.068 135.5 755.5 138.932 755.5 143.167L755.5 173.833C755.5 178.068 752.068 181.5 747.833 181.5L334.167 181.5C329.932 181.5 326.5 178.068 326.5 173.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="11" transform="translate(514.23 156)" pointer-events="none">◎卒業研究<tspan font-size="8" x="-90.3334" y="11">（卒論の場合は</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="11" transform="translate(514.23 156)">◎卒業研究<tspan font-size="8" x="-90.3334" y="11">（卒論の場合は</tspan>
 			<tspan font-size="8" x="-34.3334" y="11">10</tspan>
 			<tspan font-size="8" x="-24.3334" y="11">単位、共同プロジェクト研究の場合は６単位）</tspan>
 		</text>
 		<path d="M417.5 354.833C417.5 352.44 419.44 350.5 421.833 350.5L462.167 350.5C464.56 350.5 466.5 352.44 466.5 354.833L466.5 372.167C466.5 374.56 464.56 376.5 462.167 376.5L421.833 376.5C419.44 376.5 417.5 374.56 417.5 372.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(431.879 365)" pointer-events="none">財政学</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(431.879 365)">財政学</text>
 		<path d="M196.5 305.667C196.5 303.918 197.918 302.5 199.667 302.5L243.333 302.5C245.082 302.5 246.5 303.918 246.5 305.667L246.5 318.333C246.5 320.082 245.082 321.5 243.333 321.5L199.667 321.5C197.918 321.5 196.5 320.082 196.5 318.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(204.354 310)" pointer-events="none">グローバル<tspan x="0" y="8">ガバナンス</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(204.354 310)">グローバル<tspan x="0" y="8">ガバナンス</tspan>
 		</text>
 		<path d="M196.5 503.667C196.5 501.918 197.918 500.5 199.667 500.5L239.333 500.5C241.082 500.5 242.5 501.918 242.5 503.667L242.5 516.333C242.5 518.082 241.082 519.5 239.333 519.5L199.667 519.5C197.918 519.5 196.5 518.082 196.5 516.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(202.465 508)" pointer-events="none">世界の言葉<tspan x="6.66667" y="8">と人々</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(202.465 508)">世界の言葉<tspan x="6.66667" y="8">と人々</tspan>
 		</text>
 		<path d="M476.5 354.833C476.5 352.44 478.44 350.5 480.833 350.5L521.167 350.5C523.56 350.5 525.5 352.44 525.5 354.833L525.5 372.167C525.5 374.56 523.56 376.5 521.167 376.5L480.833 376.5C478.44 376.5 476.5 374.56 476.5 372.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(483.641 361)" pointer-events="none">ベンチャー<tspan x="6.66669" y="8">企業論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(483.641 361)">ベンチャー<tspan x="6.66669" y="8">企業論</tspan>
 		</text>
 		<path d="M799.5 251.167C799.5 248.037 802.037 245.5 805.167 245.5L846.833 245.5C849.963 245.5 852.5 248.037 852.5 251.167L852.5 273.833C852.5 276.963 849.963 279.5 846.833 279.5L805.167 279.5C802.037 279.5 799.5 276.963 799.5 273.833Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(805.132 256)" pointer-events="none">◇アカデミッ<tspan x="0" y="8">クライティン</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(805.132 256)">◇アカデミッ<tspan x="0" y="8">クライティン</tspan>
 			<tspan x="16.6666" y="16">グ</tspan>
 		</text>
 		<path d="M403.5 476.333C403.5 474.216 405.216 472.5 407.333 472.5L675.667 472.5C677.784 472.5 679.5 474.216 679.5 476.333L679.5 491.667C679.5 493.784 677.784 495.5 675.667 495.5L407.333 495.5C405.216 495.5 403.5 493.784 403.5 491.667Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="8" transform="translate(500.896 485)" pointer-events="none">◎専門基礎ゼミナール</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="8" transform="translate(500.896 485)">◎専門基礎ゼミナール</text>
 		<path d="M535.5 415.833C535.5 413.44 537.44 411.5 539.833 411.5L573.167 411.5C575.56 411.5 577.5 413.44 577.5 415.833L577.5 433.167C577.5 435.56 575.56 437.5 573.167 437.5L539.833 437.5C537.44 437.5 535.5 435.56 535.5 433.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(542.998 422)" pointer-events="none">工業簿記<tspan x="10" y="8">論</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(542.998 422)">工業簿記<tspan x="10" y="8">論</tspan>
 		</text>
 		<path d="M582.5 385.833C582.5 383.44 584.44 381.5 586.833 381.5L624.167 381.5C626.56 381.5 628.5 383.44 628.5 385.833L628.5 403.167C628.5 405.56 626.56 407.5 624.167 407.5L586.833 407.5C584.44 407.5 582.5 405.56 582.5 403.167Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(589.067 393)" pointer-events="none">Ｃプログラミ<tspan x="10.6667" y="6">ング</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(589.067 393)">Ｃプログラミ<tspan x="10.6667" y="6">ング</tspan>
 		</text>
 		<path d="M457.5 202C457.5 199.515 459.515 197.5 462 197.5L506 197.5C508.485 197.5 510.5 199.515 510.5 202L510.5 220C510.5 222.485 508.485 224.5 506 224.5L462 224.5C459.515 224.5 457.5 222.485 457.5 220Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(463.635 209)" pointer-events="none">コーポレート<tspan x="0" y="8">ファイナンス</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="7" transform="translate(463.635 209)">コーポレート<tspan x="0" y="8">ファイナンス</tspan>
 		</text>
 		<path d="M873.665 199.592C874.111 197.553 876.126 196.261 878.165 196.707L892.934 199.938C894.973 200.384 896.265 202.399 895.819 204.438L883.176 262.23C882.73 264.27 880.715 265.561 878.676 265.115L863.908 261.884C861.868 261.438 860.577 259.424 861.023 257.384Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.976899 0.213699 -0.213699 0.976899 883 216)" pointer-events="none">イ<tspan x="-0.025198" y="9.21833">ン</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.976899 0.213699 -0.213699 0.976899 883 216)">イ<tspan x="-0.025198" y="9.21833">ン</tspan>
 			<tspan x="-0.0503364" y="18.4367">タ</tspan>
 		</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" writing-mode="tb-rl" transform="matrix(0.976899 0.213699 -0.213699 0.976899 879.276 238)" x="1.71743" y="0.596472">ー</text>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.976899 0.213699 -0.213699 0.976899 875.877 249)" pointer-events="none">ン<tspan x="-9.14473" y="-26.6617">シ</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" writing-mode="tb-rl" transform="matrix(0.976899 0.213699 -0.213699 0.976899 879.276 238)" x="1.71743" y="0.596472">ー</text>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="matrix(0.976899 0.213699 -0.213699 0.976899 875.877 249)">ン<tspan x="-9.14473" y="-26.6617">シ</tspan>
 			<tspan x="-8.95617" y="-16.4665">ッ</tspan>
 			<tspan x="-8.98131" y="-7.24814">プ</tspan>
 		</text>
 		<path d="M77.5001 357.667C77.5001 355.918 78.9178 354.5 80.6668 354.5L116.333 354.5C118.082 354.5 119.5 355.918 119.5 357.667L119.5 370.333C119.5 372.082 118.082 373.5 116.333 373.5L80.6668 373.5C78.9178 373.5 77.5001 372.082 77.5001 370.333Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd"/>
-		<text font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(87.2007 362)">サッカー<tspan x="0" y="6" pointer-events="none">実践実習</tspan>
+		<text pointer-events="none" font-family="Meiryo,Meiryo_MSFontService,sans-serif" font-weight="400" font-size="5" transform="translate(87.2007 362)">サッカー<tspan x="0" y="6">実践実習</tspan>
 		</text>
 	</g>
 </svg>
