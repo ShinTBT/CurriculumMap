@@ -15,7 +15,7 @@ $(window).on('load', function(){
     $svg.on('click', function (e) {
         console.log(e);
         console.log(e.target);
-        if((e.target.tagName == "path" || e.target.tagName == "rect") && e.target.className.baseVal!="back"){
+        if((e.target.tagName == "path" || e.target.tagName == "rect" || e.target.tagName == "polygon") && e.target.className.baseVal!="back"){
         	if($(e.target).css('fill') == "rgb(255, 255, 255)"){
         		//白なら青に
         		$(e.target).css('fill', '#00bfff');
